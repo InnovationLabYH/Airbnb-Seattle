@@ -16,11 +16,11 @@ For this project, I used Airbnb Seattle data to understand following questions.
 2. Does particular season have higher ratings?
 3. Which is the most popular type of Airbnb accomodation in Seattle?
 
-File Descriptions
-Notes for this projects are ** here **
+File Descriptions <br>
+Notes for this projects are ** here ** <br>
 There is .py file that runs the codes for the analysis
 
-Analysis
+Analysis <br>
 Result is in **here **
 
 Licensing, Authors, Acknowledgements, etc <br>
