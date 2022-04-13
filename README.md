@@ -24,7 +24,9 @@ Analysis <br>
 Result is in **here **
 
 Licensing, Authors, Acknowledgements, etc <br>
-The weather is. Data are from Airbnb. 
+The weather is based on website　<A HREF="https://weather-and-climate.com/average-monthly-precipitation-Rainfall-inches,seattle,United-States-of-America">here </A>. 
+
+Data are from Airbnb. 
 Stack Overflow can be found at **here**
 Airbnb data are available **here **
 Feel free to copy my code!
