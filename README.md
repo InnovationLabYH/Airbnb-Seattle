@@ -14,7 +14,7 @@ Project Motivation
 For this project, I used Airbnb Seattle data to understand following questions.
 1. Does season affect price?
 2. Does particular season have higher ratings?
-3. Which is the most popular type of Airbnb acoomodation in Seattle?
+3. Which is the most popular type of Airbnb accomodation in Seattle?
 
 File Descriptions
 Notes for this projects are ** here **
