@@ -23,8 +23,8 @@ There is .py file that runs the codes for the analysis
 Analysis
 Result is in **here **
 
-Licensing, Authors, Acknowledgements, etc
-The build is based on Stack Overflow. Data are from Airbnb. 
+Licensing, Authors, Acknowledgements, etc <br>
+The weather is. Data are from Airbnb. 
 Stack Overflow can be found at **here**
 Airbnb data are available **here **
 Feel free to copy my code!
