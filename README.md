@@ -24,9 +24,8 @@ Analysis <br>
 Result is in **here **
 
 Licensing, Authors, Acknowledgements, etc <br>
-The weather is based on website　<A HREF="https://weather-and-climate.com/average-monthly-precipitation-Rainfall-inches,seattle,United-States-of-America">here </A>. 
+The weather is based on website<A HREF="https://weather-and-climate.com/average-monthly-precipitation-Rainfall-inches,seattle,United-States-of-America">here </A>. 
 
 Data are from Airbnb. 
-Stack Overflow can be found at **here**
-Airbnb data are available **here **
+Airbnb data are available <A HREF="https://www.kaggle.com/datasets/airbnb/seattle">here </A>.
 Feel free to copy my code!
