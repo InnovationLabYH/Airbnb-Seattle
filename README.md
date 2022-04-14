@@ -13,7 +13,7 @@ There is no libraries to run the code. The code should run with Python ver. 3
 Project Motivation
 For this project, I used Airbnb Seattle data to understand following questions.
 1. Does season affect price?
-2. Does particular season have higher ratings?
+2. What is average # of accomodation per month per type of accomodation?
 3. Which is the most popular type of Airbnb accomodation in Seattle?
 
 File Descriptions <br>
