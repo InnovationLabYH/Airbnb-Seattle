@@ -14,7 +14,7 @@ There is no libraries to run the code. The code should run with Python ver. 3*.
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I used Airbnb Seattle data to understand following questions.
-1. Does season affect price?
+1. What are the type of accomodation offered in Seattle and how many each?
 2. Does particular season have higher ratings?
 3. Which is the most popular type of Airbnb acoomodation in Seattle?
 
